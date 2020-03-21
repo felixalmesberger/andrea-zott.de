@@ -1,0 +1,42 @@
+{
+  "days" :
+  [
+    {
+        "day" : "sunday",
+        "start" : "17:00",
+        "end" :   "22:00"
+    },
+    {
+        "day" : "monday",
+        "start" : "00:00",
+        "end" :   "00:00"
+    },
+    {
+        "day" : "tuesday",
+        "start" : "17:00",
+        "end" :   "23:00"
+    },
+    {
+        "day" : "wednesday",
+        "start" : "17:00",
+        "end" :   "23:00"
+    },
+    {
+        "day" : "thursday",
+        "start" : "17:00",
+        "end" :   "23:00"
+    },
+    {
+        "day" : "friday",
+        "start" : "17:00",
+        "end" :   "23:00"
+    },
+    {
+        "day" : "saturday",
+        "start" : "17:00",
+        "end" :   "23:00"
+    }
+  ],
+  "open_message" : "Geöffnet: 0941 / 4611 0084",
+  "closed_message" : "Gerade geschlossen"
+}
